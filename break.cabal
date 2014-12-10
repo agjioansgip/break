@@ -3,10 +3,6 @@ version:       0.1
 cabal-version: >= 1.2
 build-type: Simple
 
-source-repository head
-  Type:     git
-  Location: https://github.com/tomjaguarpaw/haskell-opaleye
-
 library
   hs-source-dirs: src
   build-depends:
